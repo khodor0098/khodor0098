@@ -27,5 +27,3 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khodor0098&show_icons=true&locale=en" alt="khodor0098" /></p>
 
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khodor0098&" alt="khodor0098" /></p>
