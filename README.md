@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khodor Mahdi</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
-<p align="right"> <img heigth="100%" width="100%" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" /> </p>
+<p align="right"> <img heigth="100%" width="100%" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
 
 - 🌱 I’m currently learning **React**
 
