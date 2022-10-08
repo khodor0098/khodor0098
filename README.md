@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khodor Mahdi</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
-<p align="center"> <img heigth="50%" width="50%" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
+<p align="center"> <img heigth="50%" width="50%" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" /> </p>
 
 <p align="center">- 🌱 I’m currently learning **React**</p>
 
